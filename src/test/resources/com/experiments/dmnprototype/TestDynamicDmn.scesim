@@ -53,7 +53,7 @@
             <string>RuleModelList</string>
           </genericTypes>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>295.0</columnWidth>
+          <columnWidth>445.66666666666663</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -74,7 +74,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>295.0</columnWidth>
+          <columnWidth>445.66666666666663</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -95,7 +95,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>295.0</columnWidth>
+          <columnWidth>445.66666666666663</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
@@ -121,7 +121,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">[{&quot;result&quot;:&quot;0&quot;, &quot;tier&quot;:&quot;\&quot;top\&quot;&quot;, &quot;upperBound&quot;:&quot;5&quot;, &quot;lowerBound&quot;:&quot;&quot;},{&quot;result&quot;:&quot;0&quot;, &quot;tier&quot;:&quot;\&quot;range\&quot;&quot;, &quot;upperBound&quot;:&quot;10&quot;, &quot;lowerBound&quot;:&quot;5&quot;},{&quot;result&quot;:&quot;0&quot;, &quot;tier&quot;:&quot;\&quot;range\&quot;&quot;, &quot;upperBound&quot;:&quot;15&quot;, &quot;lowerBound&quot;:&quot;10&quot;},{&quot;result&quot;:&quot;0&quot;, &quot;tier&quot;:&quot;\&quot;bottom\&quot;&quot;, &quot;upperBound&quot;:&quot;&quot;, &quot;lowerBound&quot;:&quot;15&quot;}]</rawValue>
+            <rawValue class="string">[{&quot;result&quot;:&quot;0&quot;, &quot;tier&quot;:&quot;\&quot;top\&quot;&quot;, &quot;upperBound&quot;:&quot;5&quot;, &quot;lowerBound&quot;:&quot;&quot;}]</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
