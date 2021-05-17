@@ -111,7 +111,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Top Tier</rawValue>
+            <rawValue class="string">Top Tier &lt;5</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -170,7 +170,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Range1</rawValue>
+            <rawValue class="string">Range1 &gt;=5 &lt;10</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -229,7 +229,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Range2</rawValue>
+            <rawValue class="string">Range2 &gt;=10 &lt;15</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -288,7 +288,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Range3</rawValue>
+            <rawValue class="string">Range3 &gt;=15 &lt;20</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -347,7 +347,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Bottom Tier</rawValue>
+            <rawValue class="string">Bottom Tier &gt;=20</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
