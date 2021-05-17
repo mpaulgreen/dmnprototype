@@ -347,7 +347,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Range4</rawValue>
+            <rawValue class="string">Bottom Tier</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
